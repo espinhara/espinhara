@@ -6,8 +6,8 @@
 <h3> :man: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Developing myself to better develop the world.
-- 🎓 &nbsp; Studying **Computer Science** in <a href="https://www.unicid.edu.br/">UNICID</a>.
-- 💼 &nbsp; Working as **.NET Full Stack Developer** in <a href="mogroup.com">METSO:OUTOTEC</a>
+- 🎓 &nbsp; Studying **Computer Science** in <a href="https://www.unicid.edu.br/" target="_blank">UNICID</a>.
+- 💼 &nbsp; Working as **.NET Full Stack Developer** in <a href="mogroup.com" target="_blank">METSO:OUTOTEC</a>
 - 🌱 &nbsp; Learnig about more **ERP SAP, Software Architecture, Computer Science**.
 
 <h3> :rocket: &nbsp;My Skills </h3>

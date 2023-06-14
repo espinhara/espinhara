@@ -7,8 +7,8 @@
 
 - 🤔 &nbsp; Developing myself to better develop the world.
 - 🎓 &nbsp; Studying **Computer Science** in <a href="https://www.unicid.edu.br/" target="_blank">UNICID</a>.
-- 💼 &nbsp; Working as **.NET Full Stack Developer** in <a href="mogroup.com" target="_blank">METSO:OUTOTEC</a>
-- 🌱 &nbsp; Learnig about more **ERP SAP, Software Architecture, Computer Science**.
+- 💼 &nbsp; Working as **Mobile Developer** in <a href="https://ludare.com.br/" target="_blank">Ludare Tecnologia</a>
+- 🌱 &nbsp; Learnig about more **React Native**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 

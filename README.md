@@ -2,7 +2,6 @@
 
 ![](https://avatars.githubusercontent.com/u/52253458?v=4)
 
-![](https://github.com/espinhara/espinhara/blob/master/luca-bravo-XJXWbfSo2f0-unsplash.jpg)
 <h3> :man: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Developing myself to better develop the world.

@@ -1,6 +1,6 @@
 # Gabriel Espinhara da Silva
 
-![](https://komarev.com/ghpvc/?username=espinhara&color=006bed)
+![](https://avatars.githubusercontent.com/u/52253458?v=4)
 
 ![](https://github.com/espinhara/espinhara/blob/master/luca-bravo-XJXWbfSo2f0-unsplash.jpg)
 <h3> :man: &nbsp;About me </h3>

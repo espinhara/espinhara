@@ -1,7 +1,5 @@
 # Gabriel Espinhara da Silva
 
-![](https://avatars.githubusercontent.com/u/52253458?v=4)
-
 <h3> :man: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Developing myself to better develop the world.
@@ -65,16 +63,19 @@
 
 <br/>
 
-<a href="https://github.com/espinhara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=espinhara&theme=dracula&show_icons=true" />
-</a>
+<div>
+  <a href="https://github.com/espinhara">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=espinhara&count_private=true&theme=dracula&include_all_commits-true&count_private-true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espinhara&layout-compact&langs_count-16&theme=dracula" />
+  </a>
+</div>
 
 <br/>
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: Gabriel Espinhara Da Silva](https://img.shields.io/badge/-Gabriel%20Espinhara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-espinhara-da-silva/)](https://www.linkedin.com/in/gabriel-espinhara-da-silva/)
-[![Gmail Badge](https://img.shields.io/badge/-gabrielespinhara13@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielespinhara13@gmail.com)](mailto:gabrielespinhara13@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gabrielespinharadasilva@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielespinharadasilva@gmail.com)](mailto:gabrielespinharadasilva@gmail.com)
 ![![Discord: Espinhara#2553]](https://img.shields.io/badge/-Espinhara%232553-gray?style=flat-square&logo=discord)
 [![Instagram: Gabriel Espinhara Da Silva](https://img.shields.io/badge/-the_espinhara-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/the_espinhara/)](https://www.instagram.com/the_espinhara/)
 [![GitHub Gabriel Espinhara da Silva]( https://img.shields.io/github/followers/espinhara?label=follow&style=social)](https://github.com/espinhara)

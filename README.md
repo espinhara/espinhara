@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Developing myself to better develop the world.
 - 🎓 &nbsp; Studying **Computer Science** in <a href="https://www.unicid.edu.br/" target="_blank">UNICID</a>.
-- 💼 &nbsp; Working as **Mobile Developer** in <a href="https://ludare.site/" target="_blank">Ludare Tecnologia</a>
 - 🌱 &nbsp; Learnig about more **React Native**.
 
 <h3> :rocket: &nbsp;My Skills </h3>

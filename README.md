@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Developing myself to better develop the world.
 - 🎓 &nbsp; Studying **Computer Science** in <a href="https://www.unicid.edu.br/" target="_blank">UNICID</a>.
-- 🌱 &nbsp; Learnig about more **React Native**.
+- 🌱 &nbsp; Learnig about more **Python**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 

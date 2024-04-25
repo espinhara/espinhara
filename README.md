@@ -10,8 +10,10 @@
 
 **Applications & Data**
 
+  
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=Csharp&logoColor=9b4993)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=ff0000)
   ![NodeJS](https://img.shields.io/badge/-Node%20JS-333333?style=flat&logo=NodeDotJS)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)

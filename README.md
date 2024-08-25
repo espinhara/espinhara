@@ -76,7 +76,7 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: Gabriel Espinhara Da Silva](https://img.shields.io/badge/-Gabriel%20Espinhara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-espinhara-da-silva/)](https://www.linkedin.com/in/gabriel-espinhara-da-silva/)
+[![Linkedin: Gabriel Espinhara Da Silva](https://img.shields.io/badge/-Gabriel%20Espinhara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-espinhara/)](https://www.linkedin.com/in/gabriel-espinhara-da-silva/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielespinharadasilva@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielespinharadasilva@gmail.com)](mailto:gabrielespinharadasilva@gmail.com)
 ![![Discord: Espinhara@.espinhara]](https://img.shields.io/badge/-Espinhara@.espinhara-gray?style=flat-square&logo=discord)
 [![GitHub Gabriel Espinhara da Silva]( https://img.shields.io/github/followers/espinhara?label=follow&style=social)](https://github.com/espinhara)

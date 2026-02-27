@@ -3,8 +3,8 @@
 <h3> :man: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Developing myself to better develop the world.
-- 🎓 &nbsp; Studying **Computer Science** in <a href="https://www.unicid.edu.br/" target="_blank">UNICID</a>.
-- 🌱 &nbsp; Learnig about more **GCP & Angular**.
+- 🎓 &nbsp; Bachelor **Computer Science**.
+- 🌱 &nbsp; Learnig about more **GCP & Microservices**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
